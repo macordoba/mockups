@@ -1,4 +1,4 @@
-# Pruebas de mockUp Open Api
+# Pruebas de mockups con OpenApi
 
 Pasos de las pureba realizadas de OpenApi
 
