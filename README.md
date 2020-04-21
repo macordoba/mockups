@@ -26,6 +26,6 @@ Prueba de herramienta que presenta mockups de un archivo OpenAPI.
 prueba de herramienta que guarda endpoint y los ejecuta en local.
 
 1. Installar open-api-maocker _npm i snapstub_
-2. Guardar los endpoint que se quieren con el comando _npx snapstub add http://localhost:5000/XXX --method=get_
+2. Guardar los endpoint que se quieren con el comando _npx snapstub add http://localhost:8059/XXX --method=get_
 3. Ejecutar _npx snapstub start_
 4. Consumir con cliente HTTP los endpoints
